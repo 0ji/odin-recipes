@@ -1,0 +1,28 @@
+* {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#title {
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration:underline;
+}
+
+a:visited {
+    color: inherit;
+}
+
+a:hover{
+    color:darkgrey;
+}
+
+.food {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.text {
+    font-size: 14px;
+}
